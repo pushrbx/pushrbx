@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushrbx" alt="pushrbx" /> </p>
 
-- 🌱 I’m currently learning **tensorflow, scikit-learn and data science in general**
+- 🌱 I’m currently learning **tensorflow, mlpack, scikit-learn and data science in general**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pushrbx](https://github.com/pushrbx)
 
