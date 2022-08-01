@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I am a passionate fullstack software engineer who is mostly interested in real world problems. I am currently developing condition monitoring systems for rotating components of machines at my day job, hence I'm currently very interested in data science.</h3>
+<h3 align="center">I am a passionate fullstack software engineer who is mostly interested in real world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushrbx" alt="pushrbx" /> </p>
-
-- 🌱 I’m currently learning **tensorflow, mlpack, scikit-learn and data science in general**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pushrbx](https://github.com/pushrbx)
 
