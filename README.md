@@ -14,10 +14,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushrbx&show_icons=true" alt="pushrbx" /></p>
 <p>
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/pushrbx?pet-id=658520084978451639"
-    width="600"
-    height="240"
-  />
+<img
+  src="https://render.gitanimals.org/farms/pushrbx"
+  width="600"
+  height="300"
+/>
 </a>
 </p>
